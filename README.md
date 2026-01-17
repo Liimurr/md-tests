@@ -1,3 +1,9 @@
+# Bold Test
+
+**THIS_IS_SCREAMING_SNAKE_CASE**
+
+_THIS_IS_ITALIC_
+
 # Links
 
 [title](#title)
