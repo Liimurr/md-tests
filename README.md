@@ -4,6 +4,8 @@
 
 **_THIS_IS_BOLD_AND_ITALIC_**
 
+**\_THIS\_IS\_BOLD\_**
+
 **\_THIS_IS_BOLD\_**
 
 _THIS_IS_ITALIC_
